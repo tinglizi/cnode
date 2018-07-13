@@ -1,4 +1,5 @@
-# cnode
+# cnode  
+# 模仿 node 社区  vue+museUI+vuex
 
 > A Vue.js project
 
